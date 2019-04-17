@@ -1,6 +1,6 @@
 # Next Movies
 
-This is an React.js website that uses an [API builded with Laravel](https://github.com/larissathasdefar/next-movies-api).
+This is an React.js website that uses the [TMDB API](https://developers.themoviedb.org/3).
 
 This app retrive the upcoming movies list, details about a specific movie and search movies by name.
 
